@@ -42,7 +42,7 @@ A fully-qualified production engineer, who is very professional and goal-orienta
 
 
 ## 💬 Talk to me
-<div style="display: inline_block">
+<div style="display: flex">
   <a href="https://www.linkedin.com/in/kohn-bruno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brunokohn1993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
