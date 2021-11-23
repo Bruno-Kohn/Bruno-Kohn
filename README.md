@@ -45,6 +45,10 @@ A fully-qualified production engineer, who is very professional and goal-orienta
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/kohn-bruno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brunokohn1993@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5521981037125&text=Olá,%20Bruno!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  
+
+
 </div>
 <br />
 </div>
