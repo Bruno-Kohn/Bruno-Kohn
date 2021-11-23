@@ -1,5 +1,5 @@
 # 
-<h1 align="center">Hello world! I'm Bruno ✌🏼</h1>
+<h1 align="center">Hello world! I'm Bruno :v:</h1>
 
 
 
