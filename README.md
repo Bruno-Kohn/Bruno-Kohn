@@ -3,7 +3,7 @@
 
 
 
-A fully-qualified production engineer, who is very professional and goal-orientated. Looking for new challenges, I'm part of one of the best bootcamps in Latin America to develop skills as a software developer.
+A fully-qualified production engineer, who is very professional and goal-orientated. I'm a software engineer in the biggest proptech in Latin America, QuintoAndar.
 <br />
 <br />
 
@@ -18,13 +18,13 @@ A fully-qualified production engineer, who is very professional and goal-orienta
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 <br />
 <br />
 
 #### **Back-end**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -38,6 +38,7 @@ A fully-qualified production engineer, who is very professional and goal-orienta
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <br />
 <br />
 
