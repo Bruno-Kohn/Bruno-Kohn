@@ -3,7 +3,7 @@
 
 
 
-A fully-qualified production engineer, who is very professional and goal-orientated. I'm a software engineer in the biggest proptech in Latin America, QuintoAndar.
+A fully-qualified production engineer, who is very professional and goal-orientated. I'm a software engineer at Multiplan.
 <br />
 <br />
 
